@@ -25,7 +25,8 @@ import {
   DollarSign,
   MapPin,
   Handshake,
-  Info
+  Info,
+  Target
 } from "lucide-react";
 
 const navItems = [
