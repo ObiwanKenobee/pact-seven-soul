@@ -37,9 +37,11 @@ const navItems = [
 
 const pageItems = [
   { name: "About", href: "/about", icon: Info, description: "Our story and mission" },
+  { name: "Universal Access", href: "/access", icon: Globe, description: "One Protocol. All People." },
+  { name: "Dashboard", href: "/dashboard", icon: BarChart3, description: "DestinyOS interface" },
   { name: "Developer", href: "/developer", icon: Code2, description: "Kenya First Edition" },
   { name: "Engineers", href: "/engineers", icon: MapPin, description: "Global community map" },
-  { name: "Impact", href: "/impact", icon: BarChart3, description: "SDG progress dashboard" },
+  { name: "Impact", href: "/impact", icon: Target, description: "SDG progress tracking" },
   { name: "Partnerships", href: "/partnerships", icon: Handshake, description: "Strategic alliances" },
   { name: "Pricing", href: "/pricing", icon: DollarSign, description: "Ethical pricing tiers" },
 ];
