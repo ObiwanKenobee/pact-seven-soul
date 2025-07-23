@@ -3,11 +3,11 @@ import { Footer } from "@/components/Footer";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { 
-  Handshake, 
-  Building2, 
-  Globe, 
-  Heart, 
+import {
+  Handshake,
+  Building2,
+  Globe,
+  Heart,
   Target,
   Users,
   Zap,
@@ -21,7 +21,8 @@ import {
   Star,
   Lightbulb,
   Scale,
-  TreePine
+  TreePine,
+  GraduationCap
 } from "lucide-react";
 
 const partnershipTypes = [
