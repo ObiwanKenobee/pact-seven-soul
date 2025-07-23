@@ -40,6 +40,7 @@ const pageItems = [
   { name: "About", href: "/about", icon: Info, description: "Our story and mission" },
   { name: "Universal Access", href: "/access", icon: Globe, description: "One Protocol. All People." },
   { name: "Dashboard", href: "/dashboard", icon: BarChart3, description: "DestinyOS interface" },
+  { name: "Tech Stack", href: "/tech-stack", icon: Code2, description: "Ubuntu technology architecture" },
   { name: "Developer", href: "/developer", icon: Code2, description: "Kenya First Edition" },
   { name: "Engineers", href: "/engineers", icon: MapPin, description: "Global community map" },
   { name: "Impact", href: "/impact", icon: Target, description: "SDG progress tracking" },
