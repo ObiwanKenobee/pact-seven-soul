@@ -120,6 +120,19 @@ export const Navigation = () => {
                     </button>
                   );
                 })}
+                {linkItems.map((item) => {
+                  const IconComponent = item.icon;
+                  return (
+                    <button
+                      key={item.name}
+                      onClick={() => handleNavigation(item.href)}
+                      className="flex items-center gap-3 text-stellar-white/80 hover:text-cosmic-primary transition-colors text-left"
+                    >
+                      <IconComponent className="w-5 h-5" />
+                      <span className="font-medium text-lg">{item.name}</span>
+                    </button>
+                  );
+                })}
                 
                 <div className="pt-6 border-t border-cosmic-primary/20 space-y-3">
                   <Button variant="cosmic" className="w-full">
