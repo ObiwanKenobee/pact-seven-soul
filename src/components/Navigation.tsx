@@ -19,6 +19,10 @@ const navItems = [
   { name: "Get Involved", href: "#phase-one", icon: Rocket },
 ];
 
+const linkItems = [
+  { name: "Developer", href: "/developer", icon: Code2 },
+];
+
 export const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
 
