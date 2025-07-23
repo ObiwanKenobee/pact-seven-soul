@@ -71,6 +71,19 @@ export const Navigation = () => {
                 </button>
               );
             })}
+            {linkItems.map((item) => {
+              const IconComponent = item.icon;
+              return (
+                <button
+                  key={item.name}
+                  onClick={() => handleNavigation(item.href)}
+                  className="flex items-center gap-2 text-stellar-white/80 hover:text-cosmic-primary transition-colors group"
+                >
+                  <IconComponent className="w-4 h-4 group-hover:scale-110 transition-transform" />
+                  <span className="font-medium">{item.name}</span>
+                </button>
+              );
+            })}
           </div>
 
           {/* CTA Buttons */}
