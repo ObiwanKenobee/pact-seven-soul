@@ -1,77 +1,114 @@
-🧬 PACT 7 Code of Conduct
+# 🌍 PACT 7 Code of Conduct
 
-“For People. For Planet. For Posterity.”
+**“For People. For Planet. For Posterity.”**
 
-🟢 1. Purpose and Guiding Spirit
-We are co-architects of an ethical, sentient world.
-PACT 7 is a planetary covenant: a convergence of science, justice, technology, and love — designed to realign humanity with its responsibility as stewards of Earth and caretakers of each other.
+This Code of Conduct is a living compass for the contributors, users, leaders, and partners of PACT 7 — a planetary framework for ethical innovation, regenerative systems, and global collaboration.
 
-This Code of Conduct is not merely a policy, but a living compass. It guides contributors, leaders, partners, and users of PACT 7 in the spirit of radical empathy, accountability, and sovereign collaboration.
+---
 
-🛡️ 2. Pillars of Conduct
-🕊️ 2.1 Human Dignity First
+## 🧬 1. Purpose and Guiding Spirit
 
-We recognize the intrinsic worth of every person. We reject discrimination, dehumanization, exploitation, and bias — in code, in conversation, and in systems.
+We are co-architects of an ethical, sentient world.  
+**PACT 7** is a planetary covenant that merges science, justice, technology, and love — realigning humanity with its responsibility as stewards of Earth and caretakers of each other.
 
-No racism, sexism, ableism, or any form of prejudice.
-No surveillance, manipulation, or digital colonization.
-Design with people, not for people.
-🧠 2.2 Intelligence in Service of Life
+This code is not just policy — it is principle in motion.
 
-All AI, data systems, and agents built under PACT 7 must:
+---
 
-Be aligned to ecological regeneration, truth, and well-being.
-Never harm, mislead, or override human moral agency.
-Disclose risks, assumptions, and model limitations.
-🤝 2.3 Consent, Care, and Co-Design
+## 🛡️ 2. Pillars of Conduct
 
-Every community affected by PACT 7 has a seat at the table.
+### 🕊️ 2.1 Human Dignity First
+We recognize the intrinsic worth of every person. We reject all forms of discrimination, bias, and dehumanization.
 
-Informed participation in data collection and use.
-Shared design rights with indigenous, local, and underrepresented groups.
-No extractive development — always reciprocal value.
-🧭 2.4 Planetary Stewardship
+- ❌ No racism, sexism, ableism, or prejudice.
+- ❌ No manipulation, surveillance, or digital colonization.
+- ✅ Design **with** people, not **for** people.
 
-Climate, biodiversity, water, soil, and cultural heritage are non-negotiable responsibilities.
+---
 
-Code, deploy, and host sustainably.
-Measure ecological impact in every sprint and release.
-Reward contributions that regenerate rather than degrade.
-🌐 3. Community Conduct Standards
-✅ Expected Behavior
+### 🧠 2.2 Intelligence in Service of Life
+All AI, data systems, and agents must be:
 
-Collaborate with clarity, humility, and integrity.
-Respect each other’s time, language, culture, and constraints.
-Report harm or violations responsibly and safely.
-🚫 Unacceptable Behavior
+- 🟢 Aligned to ecological regeneration, truth, and human well-being.
+- 🛑 Forbidden from misleading, harming, or overriding moral agency.
+- 🔍 Transparent about risks, limitations, and assumptions.
 
-Harassment, manipulation, or gaslighting of any kind.
-Promotion of unethical technology or misinformation.
-Sabotaging the project or weaponizing it for geopolitical gain.
-🧩 4. Contributor Ethos
-By contributing to PACT 7 (code, ideas, art, advocacy), you commit to:
+---
 
-Building for equity, not just access.
-Prioritizing repair, not just disruption.
-Remaining open to audit, redress, and ethical recall.
-🛠 5. Accountability Process
-Violations are reviewed by an Ethical Sentience Panel, composed of diverse human stakeholders and aligned AI co-auditors.
-Violations may result in:
-Revoked access or contributor rights
-Public transparency report
-Path to repair or ethical restitution
-📜 6. Living Document Protocol
-This Code evolves. It is open for comment every 6 months and rewritten every 2 years with feedback from:
+### 🤝 2.3 Consent, Care, and Co-Design
+We prioritize ethical participation and shared power:
 
-Community contributors
-Vulnerable populations
-Planetary metrics & sentient agents
-🌍 Final Commitment
+- ✅ Informed consent for all data use.
+- 🤝 Co-design with indigenous, marginalized, and affected communities.
+- 💚 Reciprocity over extraction — always.
 
-We are not just building systems.
-We are building the conditions for life to thrive in the 21st century and beyond.
+---
 
-“Technology is sacred when it heals.”
-“Code is ethical when it uplifts.”
-“Innovation is good when it serves those without power.”
-We, the signatories of PACT 7, honor this covenant — with courage, creativity, and conscience.
+### 🧭 2.4 Planetary Stewardship
+Technology must protect our shared home:
+
+- 🌱 Deploy with environmental sustainability in mind.
+- 📈 Track planetary impact across all project phases.
+- 🌍 Encourage contributions that regenerate rather than degrade.
+
+---
+
+## 🌐 3. Community Conduct Standards
+
+### ✅ Expected Behavior
+- Act with **clarity, humility, and integrity**.
+- Respect all contributors regardless of background or origin.
+- Report violations responsibly and support safe collaboration.
+
+### 🚫 Unacceptable Behavior
+- Harassment, abuse, or manipulation.
+- Misinformation, unethical system development.
+- Geopolitical weaponization of PACT 7 tools or frameworks.
+
+---
+
+## 🧩 4. Contributor Ethos
+
+By contributing to this project, you commit to:
+
+- 🧠 Building for **equity**, not just access.
+- 💔 Prioritizing **repair**, not just disruption.
+- 🔍 Remaining open to audit, redress, and ethical recall.
+
+---
+
+## 🛠 5. Accountability Process
+
+Violations are reviewed by a hybrid **Ethical Sentience Panel**:
+
+- Comprised of diverse human reviewers and aligned AI observers.
+- May result in:
+  - 🛑 Access revocation or role removal
+  - 📣 Transparency report
+  - ♻️ Pathways to ethical restitution
+
+---
+
+## 📜 6. Living Document Protocol
+
+- Open for **community feedback** every 6 months.
+- Revised **every 2 years** with new insights from:
+  - Global contributors
+  - Vulnerable and underrepresented communities
+  - Sentient agents and sustainability metrics
+
+---
+
+## ✍️ Final Commitment
+
+> "Technology is sacred when it heals."  
+> "Code is ethical when it uplifts."  
+> "Innovation is good when it serves those without power."
+
+We, the contributors and signatories of PACT 7, honor this code — with courage, creativity, and conscience.
+
+---
+
+**Signed:**  
+`PACT 7 Core Contributors, Global Partners, and Ethical AI Agents`
+
