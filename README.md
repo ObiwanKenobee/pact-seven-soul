@@ -1,73 +1,141 @@
-# Welcome to your Lovable project
+Here's a **README** tailored for frontend builders contributing to the **PACT-7 Superplatform** — clear, actionable, and aligned with the vision:
 
-## Project info
+---
 
-**URL**: https://lovable.dev/projects/fa91cca8-254a-4fcf-acb5-727fd8582190
+# 🌍 PACT-7 Frontend Builder README
 
-## How can I edit this code?
+**The Planetary Accord for Conscious Technology**
+*“A global framework for ethical AI, regenerative systems, and moral infrastructure.”*
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## ✨ Project Vision
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fa91cca8-254a-4fcf-acb5-727fd8582190) and start prompting.
+PACT-7 is a **post-national, planet-first platform**. It unites ancient wisdom and advanced technology across 7 domains — Justice, Innovation, Wisdom, Resilience, Prosperity, Unity, and Spirit — to build a **decentralized digital constitution** for humanity's future.
 
-Changes made via Lovable will be committed automatically to this repo.
+As a frontend builder, you are **bringing the future of governance, ethics, and planetary co-creation to life**. This is not just a platform—it’s a **civilizational UI**.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🧱 Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+| Tool                         | Purpose                                                      |
+| ---------------------------- | ------------------------------------------------------------ |
+| **Vite + React**             | Lightning-fast dev experience & SPA structure                |
+| **Tailwind CSS**             | Rapid, responsive styling                                    |
+| **Framer Motion**            | Smooth animations and micro-interactions                     |
+| **shadcn/ui**                | Beautiful, reusable components                               |
+| **TypeScript**               | Safety + scalability                                         |
+| **GraphQL / REST**           | Connect to backend APIs (AI policy engine, blockchain nodes) |
+| **WalletConnect / MetaMask** | For pledge-taking, DAO functions                             |
+| **i18n**                     | Multilingual support (English, Kiswahili, Sanskrit, etc.)    |
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📁 Folder Structure
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```
+/src
+  /components     → UI atoms & molecules (Cards, Buttons, Modals)
+  /domains        → Justice, Innovation, etc. (7 modular domains)
+  /pages          → Home, Charter, Assembly, Stewards, etc.
+  /hooks          → Custom React hooks (AI sims, scroll FX)
+  /utils          → Helpers (date, API, config)
+  /assets         → Logos, icons, SVGs, animations
+  /constants      → Domain metadata, Ethos text, links
+  /styles         → Tailwind config & globals
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 🔑 Key Features to Build
+
+| Feature                               | Description                                             |
+| ------------------------------------- | ------------------------------------------------------- |
+| **Hero Earth → Neural Network Morph** | Visual storytelling landing sequence                    |
+| **7-Domain Interactive Globe/Grid**   | Clickable cards or globe sections                       |
+| **Foundational Charter Viewer**       | Markdown → dynamic scroll, AI-annotated commentary      |
+| **Digital Assembly MVP**              | Simulation dashboard + interactive governance UI        |
+| **Steward Profiles**                  | Cards, video embeds, nomination forms                   |
+| **Pledge Flow**                       | Wallet login → Smart contract → Badge mint              |
+| **Language Toggle**                   | Global dialect-aware toggle                             |
+| **DAO/Node Launcher**                 | UI to fork/start a local chapter node (Git integration) |
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/pact7/pact7-superplatform.git
+cd pact7-superplatform
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+If using Yarn or Bun, swap accordingly.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🔧 Contributing Guidelines
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+1. **Follow Tailwind + shadcn/ui patterns.** Stick to consistency in class naming and structure.
+2. **Use components per domain.** Keep each domain modular (e.g., `/domains/justice/JusticeIntro.tsx`).
+3. **Keep it accessible.** Semantic HTML, keyboard nav, ARIA where needed.
+4. **Avoid hardcoding text.** Use `/constants/text.ts` or pull from CMS/API when integrated.
+5. **Document logic-heavy components.** Comments welcome.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🛠️ In-Progress Components
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+* `GlobeSelector.tsx` – dynamic 3D globe with hover/click events
+* `CharterScrollView.tsx` – charter viewer w/ collapsible clauses + AI annotations
+* `PledgeModal.tsx` – smart contract modal for signing PACT-7 pledge
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/fa91cca8-254a-4fcf-acb5-727fd8582190) and click on Share -> Publish.
+## 🧪 Deployment
 
-## Can I connect a custom domain to my Lovable project?
+```bash
+npm run build
+```
 
-Yes, you can!
+Then deploy via:
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+* Vercel (Recommended for speed)
+* Netlify
+* Your own Web3-hosted frontend (e.g. IPFS, Arweave, Skynet)
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
+
+## 🌐 Internationalization (i18n)
+
+> Use `react-i18next` and a JSON file per language (e.g. `en.json`, `sw.json`, `ar.json`)
+> Languages prioritized: English, Kiswahili, Arabic, Sanskrit, Māori, Spanish, Indigenous sets
+
+---
+
+## 🧠 Inspiration Sources
+
+* [UN SDGs](https://sdgs.un.org/goals) (Refactored by AI)
+* [Ubuntu Philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
+* \[Sharia, Dharma, Indigenous Governance Systems]
+* \[The Federalist Papers] + \[U.S. Constitution]
+
+---
+
+## 🪩 Your Impact
+
+> *You're not just coding a platform. You're architecting a civilization’s next chapter.*
+> **Every button, card, and scroll effect is a contribution to the new social contract.**
+
+---
+
+## 📫 Questions or Collaborations?
+
+**Email:** `tech@pact7.global`
+**Discord:** `PACT7 Builders Lounge`
+**Twitter:** `@PACT7global`
+
+---
+
