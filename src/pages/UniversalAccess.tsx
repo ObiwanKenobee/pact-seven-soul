@@ -5,11 +5,11 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Progress } from "@/components/ui/progress";
-import { 
-  Shield, 
-  Globe, 
-  Heart, 
-  Users, 
+import {
+  Shield,
+  Globe,
+  Heart,
+  Users,
   Eye,
   Fingerprint,
   Mic,
@@ -31,7 +31,8 @@ import {
   Moon,
   Sun,
   Waves,
-  Hexagon
+  Hexagon,
+  Bell
 } from "lucide-react";
 
 const identityTypes = [
