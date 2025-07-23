@@ -15,6 +15,7 @@ import Partnerships from "./pages/Partnerships";
 import OpenSource from "./pages/OpenSource";
 import UniversalAccess from "./pages/UniversalAccess";
 import Dashboard from "./pages/Dashboard";
+import TechStack from "./pages/TechStack";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
