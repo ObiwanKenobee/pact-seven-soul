@@ -13,6 +13,8 @@ import Pricing from "./pages/Pricing";
 import Engineers from "./pages/Engineers";
 import Partnerships from "./pages/Partnerships";
 import OpenSource from "./pages/OpenSource";
+import UniversalAccess from "./pages/UniversalAccess";
+import Dashboard from "./pages/Dashboard";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
