@@ -1,14 +1,15 @@
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
-import { 
-  Menu, 
-  Globe, 
-  FileText, 
-  Users, 
+import {
+  Menu,
+  Globe,
+  FileText,
+  Users,
   Rocket,
   Heart,
-  Github
+  Github,
+  Code2
 } from "lucide-react";
 
 const navItems = [
