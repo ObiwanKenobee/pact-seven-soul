@@ -34,6 +34,14 @@ export const Navigation = () => {
     setIsOpen(false);
   };
 
+  const handleNavigation = (href: string) => {
+    if (href.startsWith('#')) {
+      scrollToSection(href);
+    } else {
+      window.location.href = href;
+    }
+  };
+
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-deep-space/90 backdrop-blur-md border-b border-cosmic-primary/20">
       <div className="max-w-7xl mx-auto px-6">
