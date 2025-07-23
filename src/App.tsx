@@ -39,6 +39,7 @@ const App = () => (
           <Route path="/open-source" element={<OpenSource />} />
           <Route path="/access" element={<UniversalAccess />} />
           <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/tech-stack" element={<TechStack />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
