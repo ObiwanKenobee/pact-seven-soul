@@ -5,6 +5,14 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 import Developer from "./pages/Developer";
+import About from "./pages/About";
+import Contributing from "./pages/Contributing";
+import CodeOfConduct from "./pages/CodeOfConduct";
+import Impact from "./pages/Impact";
+import Pricing from "./pages/Pricing";
+import Engineers from "./pages/Engineers";
+import Partnerships from "./pages/Partnerships";
+import OpenSource from "./pages/OpenSource";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
