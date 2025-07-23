@@ -1,73 +1,77 @@
-# Contributor Covenant Code of Conduct
+🧬 PACT 7 Code of Conduct
 
-## Our Pledge
+“For People. For Planet. For Posterity.”
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+🟢 1. Purpose and Guiding Spirit
+We are co-architects of an ethical, sentient world.
+PACT 7 is a planetary covenant: a convergence of science, justice, technology, and love — designed to realign humanity with its responsibility as stewards of Earth and caretakers of each other.
 
-## Our Standards
+This Code of Conduct is not merely a policy, but a living compass. It guides contributors, leaders, partners, and users of PACT 7 in the spirit of radical empathy, accountability, and sovereign collaboration.
 
-Examples of behavior that contributes to creating a positive environment
-include:
+🛡️ 2. Pillars of Conduct
+🕊️ 2.1 Human Dignity First
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+We recognize the intrinsic worth of every person. We reject discrimination, dehumanization, exploitation, and bias — in code, in conversation, and in systems.
 
-Examples of unacceptable behavior by participants include:
+No racism, sexism, ableism, or any form of prejudice.
+No surveillance, manipulation, or digital colonization.
+Design with people, not for people.
+🧠 2.2 Intelligence in Service of Life
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+All AI, data systems, and agents built under PACT 7 must:
 
-## Our Responsibilities
+Be aligned to ecological regeneration, truth, and well-being.
+Never harm, mislead, or override human moral agency.
+Disclose risks, assumptions, and model limitations.
+🤝 2.3 Consent, Care, and Co-Design
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+Every community affected by PACT 7 has a seat at the table.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+Informed participation in data collection and use.
+Shared design rights with indigenous, local, and underrepresented groups.
+No extractive development — always reciprocal value.
+🧭 2.4 Planetary Stewardship
 
-## Scope
+Climate, biodiversity, water, soil, and cultural heritage are non-negotiable responsibilities.
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+Code, deploy, and host sustainably.
+Measure ecological impact in every sprint and release.
+Reward contributions that regenerate rather than degrade.
+🌐 3. Community Conduct Standards
+✅ Expected Behavior
 
-## Enforcement
+Collaborate with clarity, humility, and integrity.
+Respect each other’s time, language, culture, and constraints.
+Report harm or violations responsibly and safely.
+🚫 Unacceptable Behavior
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at info@consulfoundation.org. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+Harassment, manipulation, or gaslighting of any kind.
+Promotion of unethical technology or misinformation.
+Sabotaging the project or weaponizing it for geopolitical gain.
+🧩 4. Contributor Ethos
+By contributing to PACT 7 (code, ideas, art, advocacy), you commit to:
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+Building for equity, not just access.
+Prioritizing repair, not just disruption.
+Remaining open to audit, redress, and ethical recall.
+🛠 5. Accountability Process
+Violations are reviewed by an Ethical Sentience Panel, composed of diverse human stakeholders and aligned AI co-auditors.
+Violations may result in:
+Revoked access or contributor rights
+Public transparency report
+Path to repair or ethical restitution
+📜 6. Living Document Protocol
+This Code evolves. It is open for comment every 6 months and rewritten every 2 years with feedback from:
 
-## Attribution
+Community contributors
+Vulnerable populations
+Planetary metrics & sentient agents
+🌍 Final Commitment
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at [http://contributor-covenant.org/version/1/4][version]
+We are not just building systems.
+We are building the conditions for life to thrive in the 21st century and beyond.
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+“Technology is sacred when it heals.”
+“Code is ethical when it uplifts.”
+“Innovation is good when it serves those without power.”
+We, the signatories of PACT 7, honor this covenant — with courage, creativity, and conscience.
