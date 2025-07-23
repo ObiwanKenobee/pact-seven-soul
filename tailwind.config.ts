@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// PACT-7 Custom Colors
+				cosmic: {
+					primary: 'hsl(var(--cosmic-primary))',
+					secondary: 'hsl(var(--cosmic-secondary))',
+					accent: 'hsl(var(--cosmic-accent))'
+				},
+				planetary: {
+					blue: 'hsl(var(--planetary-blue))'
+				},
+				'deep-space': 'hsl(var(--deep-space))',
+				'stellar-white': 'hsl(var(--stellar-white))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
@@ -84,11 +95,52 @@ export default {
 					to: {
 						height: '0'
 					}
+				},
+				// PACT-7 Custom Animations
+				'spin-slow': {
+					from: {
+						transform: 'rotate(0deg)'
+					},
+					to: {
+						transform: 'rotate(360deg)'
+					}
+				},
+				'pulse-cosmic': {
+					'0%, 100%': {
+						opacity: '1',
+						transform: 'scale(1)'
+					},
+					'50%': {
+						opacity: '0.7',
+						transform: 'scale(1.05)'
+					}
+				},
+				'float': {
+					'0%, 100%': {
+						transform: 'translateY(0px)'
+					},
+					'50%': {
+						transform: 'translateY(-10px)'
+					}
 				}
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+				'spin-slow': 'spin-slow 20s linear infinite',
+				'pulse-cosmic': 'pulse-cosmic 4s ease-in-out infinite',
+				'float': 'float 6s ease-in-out infinite'
+			},
+			backgroundImage: {
+				'gradient-cosmic': 'var(--gradient-cosmic)',
+				'gradient-planetary': 'var(--gradient-planetary)',
+				'gradient-constitutional': 'var(--gradient-constitutional)',
+				'gradient-hero': 'var(--gradient-hero)'
+			},
+			boxShadow: {
+				'cosmic': 'var(--shadow-cosmic)',
+				'planetary': 'var(--shadow-planetary)',
+				'glow': 'var(--shadow-glow)'
 			}
 		}
 	},
